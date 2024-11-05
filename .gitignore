@@ -1,0 +1,16 @@
+# Ignore system files and folders
+.DS_Store
+Thumbs.db
+.VirtualBox/
+.bash_history
+.cache/
+AppData/
+
+# Ignore log files
+*.log
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore environment variables file
+.env
